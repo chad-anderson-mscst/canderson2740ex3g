@@ -1,0 +1,16 @@
+101
+Chad Anderson
+10.0
+0.0
+102
+Kim Stimson
+50.0
+10.0
+103
+Steve Anderson
+30.0
+10.0
+104
+Judy Gesswein
+40.0
+20.0
